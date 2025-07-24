@@ -25,5 +25,5 @@ NOTE: Set it to "false" or only "" to not use the client folder, so everything w
 	],
 	"clientFolder": "",
 	"newClientUrl" : "https://github.com/Arantzitaa/launcher/releases/download/Release/draconic.zip",
-	"clientExecutable": "client.exe"
+	"clientExecutable": "Draconic.exe"
 }
