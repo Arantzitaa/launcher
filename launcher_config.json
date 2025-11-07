@@ -14,6 +14,6 @@
 		}
 	],
 	"clientFolder": "",
-	"newClientUrl" : "https://github.com/Arantzitaa/launcher/releases/download/V1.0/draconic.rar",
+	"newClientUrl" : "https://github.com/Arantzitaa/launcher/releases/download/Release/draconic.zip",
 	"clientExecutable": "Draconic.exe"
 }
